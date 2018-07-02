@@ -5,4 +5,5 @@
 임광효 - 텐서플로우 구축, 텐서플로우 강의 1-10강 수강(강의출처:https://blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221291753782&parentCategoryNo=&categoryNo=83&viewDate=&isShowPopularPosts=false&from=postList)
 	주피터 노트북을 통한 텐서플로우 학습 구축
 
-김준영
+김준영 - 텐서플로우 구축, 텐서플로우 강의 수강(강의출처:https://www.youtube.com/watch?v=NZz2yq0G5LU)
+	주피터 노트북을 통한 텐서플로우 학습 구축
