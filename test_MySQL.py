@@ -7,10 +7,10 @@ connection = MySQLdb.connect (host = aws_ip,
 
 cursor = connection.cursor()
 
-id = 'ggoowlgnsdle'
+id = 'jy016011'
 passwd = '1234'
-name = 'park-ji-hoon'
-email = 'ggoowlgns@naver.com'
+name = 'Kim-Jun-Young'
+email = 'jy016011@naver.com'
 
 staff_data = [(id,passwd,name,email),
               (id, passwd, name, email)]
