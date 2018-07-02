@@ -27,3 +27,4 @@ for p in staff_data:
 connection.commit()
 cursor.close()
 connection.close()
+# Im Gwanghyo, footprint
